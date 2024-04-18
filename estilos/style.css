@@ -40,7 +40,7 @@ section#login > div#imagem {
     display: block;
     background: #9400D3 url(../imagens/pexels-scott-webb-305816.jpg) no-repeat;
     background-size: cover;
-    background-position: center center;
+    background-position: left top;
     height: 200px;
 }
 
